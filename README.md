@@ -1,9 +1,9 @@
 # __Veri Yapıları ve Algoritmalar__
 # __Binary Search Tree Projesi__
 ## __Proje 3__
-__https://github.com/metebilgicofficial/kodluyoruzBinarySearchTreeProjesi__
+__[proje link 1](https://github.com/metebilgicofficial/kodluyoruzBinarySearchTreeProjesi)__
 
-__https://metebilgicofficial.github.io/kodluyoruzBinarySearchTreeProjesi/__
+__[proje link 2](https://metebilgicofficial.github.io/kodluyoruzBinarySearchTreeProjesi/)__
 
 ## ***[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.***
 
